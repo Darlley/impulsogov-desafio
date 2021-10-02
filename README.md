@@ -9,8 +9,8 @@ Projeto disponível em:
 ## Comentários
 
 - Fiz a aplicação tomando como princípio o **Mobile First**.
-- Apliquei responsividade no layout com Media Query e Flexbox.
-- Apliquei responsividade nas imagens do header com a tag HTML <picture></picture>.
-- Tentei na medida do possivel aplicar a arquitetura do **CSS BEM** (Block__Element--Modifier). 
-- Trabalhei com o [Boilerplate](https://html5boilerplate.com/) no HTML para gerar uma estrutura mais completa.
+- Apliquei responsividade no layout com **Media Query** e **Flexbox**.
+- Apliquei responsividade nas imagens do header com a tag HTML **picture**.
+- Tentei na medida do possivel aplicar a arquitetura do **CSS BEM** *(Block__Element--Modifier)*. 
+- Trabalhei com o **[Boilerplate](https://html5boilerplate.com/)** no HTML para gerar uma estrutura mais completa.
 - Utilizei variáveis no CSS.
